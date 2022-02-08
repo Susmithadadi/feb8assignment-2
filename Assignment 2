@@ -1,0 +1,7 @@
+km=float(input('enter km'))
+cm=(km*100000)
+print('converting km to cm',cm)
+Output
+enter km
+25
+converting km to cm 2500000.0
